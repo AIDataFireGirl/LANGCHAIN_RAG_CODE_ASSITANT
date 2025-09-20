@@ -286,24 +286,6 @@ LANGCHAIN_RAG_CODE_ASSITANT/
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- [LangChain](https://langchain.com/) for the RAG framework
-- [OpenAI](https://openai.com/) for the language models
-- [ChromaDB](https://www.trychroma.com/) for vector storage
-- [FastAPI](https://fastapi.tiangolo.com/) for the API framework
-- [Streamlit](https://streamlit.io/) for the web interface
-
-## 📞 Support
-
-For issues and questions:
-1. Check the [Issues](https://github.com/your-repo/issues) page
-2. Create a new issue with detailed information
-3. Include your environment details and error logs
 
 ---
 
